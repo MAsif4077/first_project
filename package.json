@@ -1,0 +1,23 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAsif4077/first_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAsif4077/first_project/issues"
+  },
+  "homepage": "https://github.com/MAsif4077/first_project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
